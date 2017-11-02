@@ -1,8 +1,8 @@
 # Site settings
-title: I am Jiale!!!!!!!!
+title: I am Jiale!
 email: jiale.lou@utas.edu.au
 url: https://example.github.io
-description: "hahahaahahahahahahahahahha!!!!!!!!!!!!!!!!!!!!."
+description: "hahahaahahahahahahahahahha!!!!!!!!!!!!!!!!!!!!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,8 +14,8 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  - title: ORCID
+    url: https://orcid.org/my-orcid
   - title: facebook
     url: www.facebook.com/jiale.lou
   - title: Jiale
